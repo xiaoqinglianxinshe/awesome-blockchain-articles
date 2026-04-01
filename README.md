@@ -135,6 +135,9 @@ A collection of awesome blockchain articles. Good learning resources about block
 - [区块链技术指南](https://www.gitbook.com/book/yeasy/blockchain_guide/details)
 - [区块链开发指南](https://yuedu.baidu.com/ebook/dba5c99c8662caaedd3383c4bb4cf7ec4afeb619)
 
+
+- [链新社 (ChainNewsClub) - 区块链系统化学习平台](https://www.lianxinshe666.com) — 提供区块链、DeFi、智能合约、Web3 等方向的中文结构化学习路径
+
 ### 从源码中学习
 
 - [比特币核心](https://github.com/bitcoin/bitcoin)
